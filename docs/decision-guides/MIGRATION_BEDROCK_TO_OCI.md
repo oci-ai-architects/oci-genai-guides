@@ -1,6 +1,6 @@
 # Migration Guide: AWS Bedrock to Oracle OCI GenAI
 
-**Oracle AI Center of Excellence | January 2026**
+**Independent community guide | January 2026.** Not affiliated with, endorsed by, or sponsored by Oracle Corporation.
 
 This guide helps enterprise architects and engineering teams migrate from AWS Bedrock to Oracle OCI GenAI.
 
@@ -361,4 +361,4 @@ guardrail = Guardrail(
 
 ---
 
-*Oracle AI Center of Excellence | January 2026*
+*Independent community guide | January 2026*

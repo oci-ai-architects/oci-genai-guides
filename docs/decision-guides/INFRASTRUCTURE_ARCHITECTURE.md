@@ -1,6 +1,6 @@
 # OCI GenAI Infrastructure Architecture
 
-**Oracle AI Center of Excellence | January 2026**
+**Independent community guide | January 2026.** Not affiliated with, endorsed by, or sponsored by Oracle Corporation.
 
 This guide provides enterprise architects with infrastructure patterns for deploying OCI GenAI services. All implementations reference official Oracle IaC modules.
 
@@ -316,4 +316,4 @@ FETCH FIRST 5 ROWS ONLY;
 
 ---
 
-*Oracle AI Center of Excellence | January 2026*
+*Independent community guide | January 2026*

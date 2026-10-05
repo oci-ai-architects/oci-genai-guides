@@ -1,6 +1,6 @@
 # Connecting OpenCode Agents to Oracle GenAI
 
-**Oracle AI Center of Excellence | January 2026**
+**Independent community guide | January 2026.** Not affiliated with, endorsed by, or sponsored by Oracle Corporation.
 
 This guide provides solution architects and developers with a streamlined approach to integrating OpenCode, Roo Code, and similar IDE coding agents with Oracle Cloud Infrastructure GenAI Service.
 
@@ -77,4 +77,4 @@ print(response.data.text)
 
 ---
 
-*Oracle AI Center of Excellence | Version 1.1 (Jan 2026)*
+*Independent community guide | Version 1.1 (Jan 2026)*
