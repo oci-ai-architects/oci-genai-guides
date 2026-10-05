@@ -1,6 +1,8 @@
 # Oracle GenAI vs AWS Bedrock vs Azure AI: Architecture Comparison
 
-**Independent community guide | January 2026.** Not affiliated with, endorsed by, or sponsored by Oracle Corporation.
+**Independent community guide. Published January 2026.** Not affiliated with, endorsed by, or sponsored by Oracle Corporation.
+
+> Service, pricing and API details have not been revalidated since publication. Check the official OCI documentation before relying on them.
 
 This guide helps enterprise architects evaluate OCI GenAI against AWS Bedrock and Azure AI Services for production deployments.
 
@@ -192,4 +194,4 @@ This guide helps enterprise architects evaluate OCI GenAI against AWS Bedrock an
 
 ---
 
-*Independent community guide | January 2026*
+*Independent community guide | Published January 2026, not revalidated since*

@@ -1,6 +1,8 @@
 # Production LLM & Agent Systems Architecture Guide
 
-**Oracle AI Center of Excellence | January 2026**
+**Independent community guide. Published January 2026.** Not affiliated with, endorsed by, or sponsored by Oracle Corporation.
+
+> Service, pricing and API details have not been revalidated since publication. Check the official OCI documentation before relying on them.
 
 > **Critical Update (June 2026)**: The `GenerateText` and `SummarizeText` APIs are deprecated. Use the **Chat API** exclusively for all inference requests.
 
@@ -809,4 +811,4 @@ python deploy.py --stack baseline --region us-phoenix-1
 
 ---
 
-*This document is maintained by FrankX AI CoE. For updates, contributions, and feedback, see the [GitHub repository](https://github.com/frankx-ai-coe/oracle-genai-guides).*
+*Independent community guide maintained by [frankxai](https://github.com/frankxai). For updates, contributions, and feedback, see the [GitHub repository](https://github.com/oci-ai-architects/oci-genai-guides).*

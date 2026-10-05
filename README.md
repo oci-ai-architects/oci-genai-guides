@@ -1,8 +1,10 @@
 # OCI GenAI Guides
 
-> **Disclaimer:** Unofficial community project. Not affiliated with, endorsed by, or sponsored by Oracle Corporation. Oracle, OCI, and related marks are trademarks of Oracle Corporation.
+> **Disclaimer:** Unofficial community project. Not affiliated with, endorsed by, or sponsored by Oracle Corporation. Oracle and OCI are trademarks or registered trademarks of Oracle Corporation. Other names are marks of their respective owners.
 
-An independent community project, last revised January 2026. A curated collection of architectural guidance, implementation patterns, and production-ready code for building enterprise GenAI systems on Oracle Cloud Infrastructure.
+An independent community project. A curated collection of architectural guidance, implementation patterns, and implementation examples for building enterprise GenAI systems on Oracle Cloud Infrastructure.
+
+> Published January 2026. Service, pricing and API details have not been revalidated since; check the official OCI documentation before relying on them.
 
 ---
 
@@ -29,17 +31,17 @@ The GenAI Service provides raw LLM inference through the **Chat API** (GenerateT
 
 **For Solution Architects:**
 
-- [Production Architecture Guide](github-ai-coe/best-practices/PRODUCTION_LLM_SYSTEMS_ARCHITECTURE.md) — Enterprise six-plane model for GenAI on OCI
-- [AI Services Decision Guide](docs/decision-guides/ORACLE_AI_SERVICES_DECISION_GUIDE.md) — Service selection framework
+- [Production Architecture Guide](github-ai-coe/best-practices/PRODUCTION_LLM_SYSTEMS_ARCHITECTURE.md): Enterprise six-plane model for GenAI on OCI
+- [AI Services Decision Guide](docs/decision-guides/ORACLE_AI_SERVICES_DECISION_GUIDE.md): Service selection framework
 
 **For Developer Integration:**
 
-- [OpenCode Integration Guide](content/blog/connecting-opencode-agents-to-oracle-genai.md) — Connect IDE coding agents to OCI GenAI
-- [QUICKSTART.py](github-ai-coe/QUICKSTART.py) — Production-ready CLI with cost tracking
+- [OpenCode Integration Guide](content/blog/connecting-opencode-agents-to-oracle-genai.md): Connect IDE coding agents to OCI GenAI
+- [QUICKSTART.py](github-ai-coe/QUICKSTART.py): Example CLI with cost tracking
 
 **Reference Architectures:**
 
-- [Enterprise RAG](github-ai-coe/reference-architectures/enterprise-rag/README.md) — Retrieval-augmented generation at scale
+- [Enterprise RAG](github-ai-coe/reference-architectures/enterprise-rag/README.md): Retrieval-augmented generation at scale
 
 ---
 
@@ -94,8 +96,14 @@ OCI GenAI pricing is **per character**, not per token.
 
 | Version | Date | Changes |
 |---------|------|---------|
-| 1.1 | Jan 2026 | Chat API migration, Agent Platform updates |
+| 1.1 | Jan 2026 (publication date, not revalidated since) | Chat API migration, Agent Platform updates |
 | 1.0 | Jan 2025 | Initial release |
+
+---
+
+## License
+
+MIT. See [LICENSE](LICENSE).
 
 ---
 

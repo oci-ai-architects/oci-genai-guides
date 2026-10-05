@@ -1,9 +1,11 @@
-# Oracle AI Center of Excellence (AI CoE) Resource Hub
+# AI Center of Excellence (AI CoE) Resource Hub for OCI
+
+> Independent community project. Not affiliated with, endorsed by, or sponsored by Oracle Corporation. Oracle and OCI are trademarks or registered trademarks of Oracle Corporation. Other names are marks of their respective owners.
 
 > Production-grade patterns, reference architectures, and best practices for building LLM and AI Agent systems on Oracle Cloud Infrastructure.
 
 [![OCI](https://img.shields.io/badge/OCI-GenAI-red)](https://www.oracle.com/artificial-intelligence/generative-ai/)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](../LICENSE)
 
 ## 🎯 What This Repository Provides
 

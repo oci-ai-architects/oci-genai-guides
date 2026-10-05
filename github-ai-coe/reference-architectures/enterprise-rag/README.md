@@ -79,7 +79,7 @@ Reference architecture for production-grade RAG (Retrieval-Augmented Generation)
 
 ```bash
 # Clone the repository
-git clone https://github.com/frankx-ai-coe/oracle-genai-guides.git
+git clone https://github.com/oci-ai-architects/oci-genai-guides.git
 cd oracle-genai-guides/reference-architectures/enterprise-rag
 
 # Configure Terraform

@@ -1,6 +1,8 @@
 # Oracle AI Services Decision Guide
 
-**Independent community guide | January 2026.** Not affiliated with, endorsed by, or sponsored by Oracle Corporation.
+**Independent community guide. Published January 2026.** Not affiliated with, endorsed by, or sponsored by Oracle Corporation.
+
+> Service, pricing and API details have not been revalidated since publication. Check the official OCI documentation before relying on them.
 
 > **API Note**: Use the **Chat API** for all OCI GenAI inference. The `GenerateText` and `SummarizeText` APIs are deprecated (June 2026).
 
@@ -251,5 +253,5 @@ GenAI Service → AI Agent → Agent Hub → Private Studio
 
 ---
 
-*Last Updated: January 2026*
+*Published January 2026, not revalidated since*
 *Independent community guide maintained by frankxai*
