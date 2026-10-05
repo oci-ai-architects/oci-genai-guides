@@ -1,9 +1,11 @@
-# Oracle AI Center of Excellence (AI CoE) Resource Hub
+# AI Center of Excellence (AI CoE) Resource Hub for OCI
 
-> Production-grade patterns, reference architectures, and best practices for building LLM and AI Agent systems on Oracle Cloud Infrastructure.
+> Independent community project. Not affiliated with, endorsed by, or sponsored by Oracle Corporation. Oracle and OCI are trademarks or registered trademarks of Oracle Corporation. Other names are marks of their respective owners.
+
+> A guide with implementation examples, reference architectures and practices for building LLM and AI agent systems on Oracle Cloud Infrastructure.
 
 [![OCI](https://img.shields.io/badge/OCI-GenAI-red)](https://www.oracle.com/artificial-intelligence/generative-ai/)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
 
 ## 🎯 What This Repository Provides
 
@@ -18,7 +20,7 @@ This repository is designed to help enterprise teams move from GenAI prototypes 
 
 ### 1. Understand the Architecture
 
-Read the [Production LLM Architecture Guide](best-practices/PRODUCTION_LLM_SYSTEMS_ARCHITECTURE.md) to understand the six-plane model for enterprise GenAI systems.
+Read the [LLM and agent systems architecture guide](best-practices/PRODUCTION_LLM_SYSTEMS_ARCHITECTURE.md) to understand the six-plane model for enterprise GenAI systems.
 
 ### 2. Choose Your Agent Pattern
 
@@ -153,11 +155,9 @@ Contributions are welcome! Please:
 2. Create a feature branch
 3. Submit a pull request with clear description
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
-
 ## 📄 License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+MIT. See the repository [LICENSE](/LICENSE).
 
 ---
 

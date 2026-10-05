@@ -354,7 +354,7 @@ def interactive_setup():
     print("  2. Create embeddings: python QUICKSTART.py embed --text 'Hi'")
     print("  3. Check costs: python QUICKSTART.py costs")
     print("\nFor more examples, see the GitHub repository:")
-    print("  https://github.com/frankx-ai-coe/oracle-genai-guides\n")
+    print("  https://github.com/oci-ai-architects/oci-genai-guides\n")
 
 
 def main():
