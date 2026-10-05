@@ -4,7 +4,7 @@
 
 > Service, pricing and API details have not been revalidated since publication. Check the official OCI documentation before relying on them.
 
-> **API Note**: Use the **Chat API** for all OCI GenAI inference. The `GenerateText` and `SummarizeText` APIs are deprecated (June 2026).
+> **API Note**: Use the **Chat API** for all OCI GenAI inference. The `GenerateText` and `SummarizeText` APIs were deprecated on 26 June 2025 and are unavailable from 26 June 2026, per the OCI release note [Deprecated APIs in OCI Generative AI](https://docs.oracle.com/en-us/iaas/releasenotes/generative-ai/deprecate-api-05292025.htm).
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-Reference architecture for production-grade RAG (Retrieval-Augmented Generation) systems on Oracle Cloud Infrastructure.
+Reference architecture and implementation examples for RAG (Retrieval-Augmented Generation) systems on Oracle Cloud Infrastructure.
 
 ## Architecture Diagram
 
@@ -77,10 +77,12 @@ Reference architecture for production-grade RAG (Retrieval-Augmented Generation)
 
 ### Deployment
 
+This directory holds the architecture write-up only. The `terraform/` and `application/` directories below are not included in this repository; the commands show the intended layout for your own implementation.
+
 ```bash
 # Clone the repository
 git clone https://github.com/oci-ai-architects/oci-genai-guides.git
-cd oracle-genai-guides/reference-architectures/enterprise-rag
+cd oci-genai-guides/github-ai-coe/reference-architectures/enterprise-rag
 
 # Configure Terraform
 cp terraform/terraform.tfvars.example terraform/terraform.tfvars

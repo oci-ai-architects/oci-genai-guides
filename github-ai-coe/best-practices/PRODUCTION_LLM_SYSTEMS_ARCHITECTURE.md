@@ -1,16 +1,18 @@
-# Production LLM & Agent Systems Architecture Guide
+# LLM and Agent Systems Architecture Guide
+
+> **Dated, not revalidated.** Written and published in January 2026. Service names, model IDs, pricing, limits and API details have not been revalidated against current OCI documentation in this revision. Treat the code as implementation examples, not as tested production code.
 
 **Independent community guide. Published January 2026.** Not affiliated with, endorsed by, or sponsored by Oracle Corporation.
 
 > Service, pricing and API details have not been revalidated since publication. Check the official OCI documentation before relying on them.
 
-> **Critical Update (June 2026)**: The `GenerateText` and `SummarizeText` APIs are deprecated. Use the **Chat API** exclusively for all inference requests.
+> **API note:** `GenerateText` and `SummarizeText` were deprecated on 26 June 2025 and are unavailable from 26 June 2026, per the OCI release note [Deprecated APIs in OCI Generative AI](https://docs.oracle.com/en-us/iaas/releasenotes/generative-ai/deprecate-api-05292025.htm) (checked 2026-10-05). Use the **Chat API** for inference requests.
 
 ---
 
 ## Executive Summary
 
-This guide provides enterprise architects and engineering teams with authoritative best practices for building production-grade LLM and AI Agent systems on Oracle Cloud Infrastructure (OCI). Based on analysis of Oracle's official documentation, technology-engineering GitHub repositories, and production deployment patterns, this document synthesizes guidance across three key Oracle GitHub organizations:
+This guide gives enterprise architects and engineering teams practices and examples for building LLM and AI Agent systems on Oracle Cloud Infrastructure (OCI). Based on analysis of Oracle's official documentation, technology-engineering GitHub repositories, and production deployment patterns, this document synthesizes guidance across three key Oracle GitHub organizations:
 
 - **Oracle Technology Engineering** - Reference architectures and implementation patterns
 - **Oracle Developer Relations** - Samples, quickstarts, and code examples  

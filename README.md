@@ -23,7 +23,7 @@ Understanding the Oracle AI ecosystem is essential for solution architects desig
 
 **OCI GenAI Service ≠ AI Agent Platform**
 
-The GenAI Service provides raw LLM inference through the **Chat API** (GenerateText/SummarizeText APIs are deprecated as of June 2026). The AI Agent Platform builds on this foundation, adding tool calling, memory management, and enterprise orchestration capabilities.
+The GenAI Service provides raw LLM inference through the **Chat API** (GenerateText and SummarizeText were deprecated on 26 June 2025 and are unavailable from 26 June 2026, per the OCI release note [Deprecated APIs in OCI Generative AI](https://docs.oracle.com/en-us/iaas/releasenotes/generative-ai/deprecate-api-05292025.htm), checked 2026-10-05). The AI Agent Platform builds on this foundation, adding tool calling, memory management, and enterprise orchestration capabilities.
 
 ---
 
@@ -64,7 +64,7 @@ response = client.chat(
 )
 ```
 
-**Do not use:** `GenerateText`, `SummarizeText` (deprecated June 2026)
+**Do not use:** `GenerateText`, `SummarizeText` (deprecated 26 June 2025, unavailable from 26 June 2026)
 
 ---
 
@@ -96,8 +96,8 @@ OCI GenAI pricing is **per character**, not per token.
 
 | Version | Date | Changes |
 |---------|------|---------|
-| 1.1 | Jan 2026 (publication date, not revalidated since) | Chat API migration, Agent Platform updates |
-| 1.0 | Jan 2025 | Initial release |
+| 1.1 | Jan 2026 (historical publication date; content not revalidated since) | Chat API migration, Agent Platform updates |
+| 1.0 | Jan 2025 (historical publication date) | Initial release |
 
 ---
 

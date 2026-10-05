@@ -20,7 +20,7 @@ The integration pattern is straightforward: your coding agent sends requests to 
 └─────────────┘                   └─────────────────────┘
 ```
 
-**Note:** The OCI GenAI Service uses the **Chat API exclusively**. The GenerateText and SummarizeText APIs are deprecated as of June 2026.
+**Note:** The OCI GenAI Service uses the **Chat API exclusively**. The GenerateText and SummarizeText APIs were deprecated on 26 June 2025 and are unavailable from 26 June 2026, per the OCI release note [Deprecated APIs in OCI Generative AI](https://docs.oracle.com/en-us/iaas/releasenotes/generative-ai/deprecate-api-05292025.htm).
 
 ---
 

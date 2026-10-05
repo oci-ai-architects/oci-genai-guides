@@ -28,7 +28,7 @@ This guide helps enterprise architects evaluate OCI GenAI against AWS Bedrock an
 **Oracle OCI GenAI**
 - Models: Cohere (Command R+, Command R), Meta (Llama 3.3), OpenAI (GPT-4o)
 - Versioned model IDs: `cohere.command-r-plus-08-2024`
-- Unified Chat API (GenerateText/SummarizeText deprecated June 2026)
+- Unified Chat API (GenerateText/SummarizeText deprecated 26 June 2025, unavailable from 26 June 2026)
 
 **AWS Bedrock**
 - Models: Claude (Anthropic), Command (Cohere), Llama (Meta), Titan (Amazon), Stable Diffusion
