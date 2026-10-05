@@ -1,8 +1,8 @@
-# Oracle GenAI Content Strategy
+# OCI GenAI Guides
 
-**Oracle AI Center of Excellence | January 2026**
+> **Disclaimer:** Unofficial community project. Not affiliated with, endorsed by, or sponsored by Oracle Corporation. Oracle, OCI, and related marks are trademarks of Oracle Corporation.
 
-A curated collection of architectural guidance, implementation patterns, and production-ready code for building enterprise GenAI systems on Oracle Cloud Infrastructure.
+An independent community project, last revised January 2026. A curated collection of architectural guidance, implementation patterns, and production-ready code for building enterprise GenAI systems on Oracle Cloud Infrastructure.
 
 ---
 
@@ -99,4 +99,4 @@ OCI GenAI pricing is **per character**, not per token.
 
 ---
 
-*Maintained by FrankX AI Practice | Oracle AI Center of Excellence*
+*Independent community project maintained by [frankxai](https://github.com/frankxai). Verify services, pricing and API status against the official OCI documentation before relying on them.*
