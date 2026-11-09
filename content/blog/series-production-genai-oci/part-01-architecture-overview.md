@@ -556,4 +556,4 @@ In **Part 2** of this series, we'll dive deep into the OCI GenAI Service:
 
 ---
 
-*This article is part of FrankX's "Production-Ready GenAI on Oracle Cloud Infrastructure" series. For the complete series, code samples, and workshops, visit our [GitHub repository](https://github.com/frankx-ai-coe/oracle-genai-guides).*
+*This article is part of FrankX's "Production-Ready GenAI on Oracle Cloud Infrastructure" series. For the complete series, code samples, and workshops, visit our [GitHub repository](https://github.com/oci-ai-architects/oci-genai-guides).*

@@ -1,6 +1,8 @@
 # Connecting OpenCode Agents to Oracle GenAI
 
-**Oracle AI Center of Excellence | January 2026**
+**Independent community guide. Published January 2026.** Not affiliated with, endorsed by, or sponsored by Oracle Corporation.
+
+> Service, pricing and API details have not been revalidated since publication. Check the official OCI documentation before relying on them.
 
 This guide provides solution architects and developers with a streamlined approach to integrating OpenCode, Roo Code, and similar IDE coding agents with Oracle Cloud Infrastructure GenAI Service.
 
@@ -18,7 +20,7 @@ The integration pattern is straightforward: your coding agent sends requests to 
 └─────────────┘                   └─────────────────────┘
 ```
 
-**Note:** The OCI GenAI Service uses the **Chat API exclusively**. The GenerateText and SummarizeText APIs are deprecated as of June 2026.
+**Note:** The OCI GenAI Service uses the **Chat API exclusively**. The GenerateText and SummarizeText APIs were deprecated on 26 June 2025 and are unavailable from 26 June 2026, per the OCI release note [Deprecated APIs in OCI Generative AI](https://docs.oracle.com/en-us/iaas/releasenotes/generative-ai/deprecate-api-05292025.htm).
 
 ---
 
@@ -77,4 +79,4 @@ print(response.data.text)
 
 ---
 
-*Oracle AI Center of Excellence | Version 1.1 (Jan 2026)*
+*Independent community guide | Version 1.1, published January 2026, not revalidated since*
